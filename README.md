@@ -4,4 +4,4 @@ Implementation of the Simplex algorithm for solving large linear programming pro
 The optimization problem's data is written in the Input directory. One must download and place the archives `ASP.py`, `mainASP.py` and the input files (`.txt`) in the same directory and run `mainASP.py`.
 
 # Authors
-Erik Altelarrea-Ferré and Álvaro Ortiz Villa
+Erik Altelarrea-Ferré and Álvaro Ortiz Villa.
